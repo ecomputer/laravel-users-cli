@@ -1,0 +1,14 @@
+{
+    "name": "ecomputer/laravel-users-cli",
+    "description": "Create, manage and delete the standard App\\User model throgh your terminal Edit",
+    "type": "library",
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "Pablo Largo Mohedano",
+            "email": "pablolargo@ecomputer.es"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
