@@ -1,6 +1,24 @@
 # Laravel users CLI
 Create, manage and delete the standard App\User model throgh your terminal
 
+## Installation
+
+1. Run on your Laravel project
+  ```bash
+  composer require ecomputer/laravel-users-cli
+  ```
+
+2. In your `config/app.php` file, register `Ecomputer\LaravelUsersCLI\LaravelUsersCLIServiceProvider::class` as a new provider
+  ```php
+  'providers' => [
+    // ...
+    Ecomputer\LaravelUsersCLI\LaravelUsersCLIServiceProvider::class,
+    // ...
+  ]
+  ```
+
+3. Done!
+
 ## Example
 ![List command example](https://github.com/ecomputer/laravel-users-cli/blob/master/img/examples/list.png?raw=true)
 
