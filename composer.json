@@ -14,7 +14,7 @@
     "version": "0.1.0.3",
     "autoload": {
       "psr-4": {
-        "Ecomputer\\LaravelUsersCLI": "src/"
+        "Ecomputer\\LaravelUsersCLI\\": "src/"
       }
     }
 }
