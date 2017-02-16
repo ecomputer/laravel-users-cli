@@ -1,5 +1,5 @@
 # Laravel users CLI
-Create, manage and delete the standard App\User model throgh your terminal
+Create, manage and delete the standard `App\User` model throgh your terminal
 
 ## Installation
 
