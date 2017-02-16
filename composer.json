@@ -11,5 +11,10 @@
     ],
     "minimum-stability": "stable",
     "require": {},
-    "version": "0.1.0.2"
+    "version": "0.1.0.2",
+    "autoload": {
+      "psr-4": {
+        "Ecomputer\\LaravelUsersCLI": "src/"
+      }
+    }
 }
